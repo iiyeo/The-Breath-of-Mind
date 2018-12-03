@@ -10,7 +10,7 @@
 
 ### How does it work?
 
-I use the NeuroSky company's ThinkGear chip to detect human's EEG data and transfers it to Arduino through a pair of bluetooth. The value of the attention controls the speed and the direction of the stepper's rotation. Then the stepper is attached with a gear assamble to decrease the speed of the stepper. I make some holes in the gear so that I can hang the fabric on it and make them present a dynamic movement with the rotation of the gears.
+I use the NeuroSky company's ThinkGear chip to detect human's EEG data and transfers it to Arduino through a pair of bluetooth. The value of the attention controls the speed and the direction of the stepper's rotation. Then the stepper is attached with a gear assamble to decrease the speed of the stepper. I make some holes in the gear so that I can hang fabrics on it and make them present a dynamic movement with the rotation of the gears. At the same time, the attention, as an input, slightly changes the soundscape which is created and controlled in Max/MSP. 
 
 ![The-Breath-of-Mind](circuit-plan.jpg)
 
