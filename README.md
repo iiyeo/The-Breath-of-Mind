@@ -9,6 +9,6 @@
 
 ### How does it work?
 
-![The-Breath-of-Mind](circuit plan.jpg)
+![The-Breath-of-Mind](circuit-plan.jpg)
 
 ### How can I build it?
