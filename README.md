@@ -1,5 +1,14 @@
 # The-Breath-of-Mind
 
-![codex-photo](1.jpg)
-![codex-photo](2.jpg)
-![codex-photo](3.jpg)
+![The-Breath-of-Mind](1.jpg)
+![The-Breath-of-Mind](2.jpg)
+![The-Breath-of-Mind](3.jpg)
+
+### What is the Breath of Mind?
+
+
+### How does it work?
+
+![The-Breath-of-Mind](circuit plan.jpg)
+
+### How can I build it?
